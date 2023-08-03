@@ -1,2 +1,2 @@
 # Workshop_debt_securites
-Jupiter notebooks with some exercises about bonds.
+Python code taken from Jupiter notebooks with some exercises about bonds.
